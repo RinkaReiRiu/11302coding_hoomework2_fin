@@ -1,0 +1,6 @@
+no,question,answer
+1,The setup() function runs only once at the beginning of a p5.js sketch.,V
+2,You must call createCanvas() inside draw() for the canvas to appear.,X
+3,fill(r， g， b) sets the color for both shapes and the background.,X
+4,The mousePressed() function is triggered whenever the mouse button is clicked.,V
+5,rect(x， y， w， h) draws a rectangle where x and y define its center point.,X
